@@ -166,3 +166,9 @@ D:\Learning\EShopMicroservices\src\Services\Catalog\Catalog.API\obj\Debug\net8.0
 D:\Learning\EShopMicroservices\src\Services\Catalog\Catalog.API\obj\Debug\net8.0\Catalog.API.pdb
 D:\Learning\EShopMicroservices\src\Services\Catalog\Catalog.API\obj\Debug\net8.0\Catalog.API.genruntimeconfig.cache
 D:\Learning\EShopMicroservices\src\Services\Catalog\Catalog.API\obj\Debug\net8.0\ref\Catalog.API.dll
+D:\Learning\EShopMicroservices\src\Services\Catalog\Catalog.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Learning\EShopMicroservices\src\Services\Catalog\Catalog.API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+D:\Learning\EShopMicroservices\src\Services\Catalog\Catalog.API\obj\Debug\net8.0\Catalog.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Learning\EShopMicroservices\src\Services\Catalog\Catalog.API\bin\Debug\net8.0\HealthChecks.NpgSql.dll
+D:\Learning\EShopMicroservices\src\Services\Catalog\Catalog.API\bin\Debug\net8.0\HealthChecks.UI.Client.dll
+D:\Learning\EShopMicroservices\src\Services\Catalog\Catalog.API\bin\Debug\net8.0\HealthChecks.UI.Core.dll
