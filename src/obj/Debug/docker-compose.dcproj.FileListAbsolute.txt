@@ -60,3 +60,16 @@ D:\Learning\EShopMicroservices\src\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.CSha
 D:\Learning\EShopMicroservices\src\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
 D:\Learning\EShopMicroservices\src\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
 D:\Learning\EShopMicroservices\src\obj\Debug\docker-c.35A3FFBA.Up2Date
+D:\Learning\EShopMicroservices\src\bin\Debug\Basket.API.deps.json
+D:\Learning\EShopMicroservices\src\bin\Debug\Basket.API.runtimeconfig.json
+D:\Learning\EShopMicroservices\src\bin\Debug\Basket.API.exe
+D:\Learning\EShopMicroservices\src\bin\Debug\Basket.API.dll
+D:\Learning\EShopMicroservices\src\bin\Debug\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+D:\Learning\EShopMicroservices\src\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Learning\EShopMicroservices\src\bin\Debug\Scrutor.dll
+D:\Learning\EShopMicroservices\src\bin\Debug\HealthChecks.Redis.dll
+D:\Learning\EShopMicroservices\src\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Learning\EShopMicroservices\src\bin\Debug\StackExchange.Redis.dll
+D:\Learning\EShopMicroservices\src\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Learning\EShopMicroservices\src\bin\Debug\Pipelines.Sockets.Unofficial.dll
+D:\Learning\EShopMicroservices\src\bin\Debug\Basket.API.pdb

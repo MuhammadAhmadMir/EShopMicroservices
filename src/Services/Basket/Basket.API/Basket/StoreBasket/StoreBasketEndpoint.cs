@@ -12,7 +12,7 @@
             {
                 var command = request.Adapt<StoreBasketCommand>();
                 var result = await sender.Send(command);
-                var response = request.Adapt<StoreBasketResponse>();
+                var response = result.Adapt<StoreBasketResponse>();
 
                 return Results.Created($"/basket/{response.UserName}", response);
             })

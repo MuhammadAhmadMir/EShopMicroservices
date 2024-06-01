@@ -169,3 +169,14 @@ D:\Learning\EShopMicroservices\src\Services\Basket\Basket.API\obj\Debug\net8.0\r
 D:\Learning\EShopMicroservices\src\Services\Basket\Basket.API\obj\Debug\net8.0\Basket.API.pdb
 D:\Learning\EShopMicroservices\src\Services\Basket\Basket.API\obj\Debug\net8.0\Basket.API.genruntimeconfig.cache
 D:\Learning\EShopMicroservices\src\Services\Basket\Basket.API\obj\Debug\net8.0\ref\Basket.API.dll
+D:\Learning\EShopMicroservices\src\Services\Basket\Basket.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+D:\Learning\EShopMicroservices\src\Services\Basket\Basket.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Learning\EShopMicroservices\src\Services\Basket\Basket.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Learning\EShopMicroservices\src\Services\Basket\Basket.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Learning\EShopMicroservices\src\Services\Basket\Basket.API\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+D:\Learning\EShopMicroservices\src\Services\Basket\Basket.API\bin\Debug\net8.0\Scrutor.dll
+D:\Learning\EShopMicroservices\src\Services\Basket\Basket.API\bin\Debug\net8.0\StackExchange.Redis.dll
+D:\Learning\EShopMicroservices\src\Services\Basket\Basket.API\bin\Debug\net8.0\HealthChecks.NpgSql.dll
+D:\Learning\EShopMicroservices\src\Services\Basket\Basket.API\bin\Debug\net8.0\HealthChecks.Redis.dll
+D:\Learning\EShopMicroservices\src\Services\Basket\Basket.API\bin\Debug\net8.0\HealthChecks.UI.Client.dll
+D:\Learning\EShopMicroservices\src\Services\Basket\Basket.API\bin\Debug\net8.0\HealthChecks.UI.Core.dll
