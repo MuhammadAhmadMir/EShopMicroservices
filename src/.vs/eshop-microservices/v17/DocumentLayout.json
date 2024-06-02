@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "D:\\Learning\\EShopMicroservices\\src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6A980775-BA65-4C85-8C3C-8423943B25C7}|Services\\Discount\\Discount.Grpc\\Discount.Grpc.csproj|d:\\learning\\eshopmicroservices\\src\\services\\discount\\discount.grpc\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{6A980775-BA65-4C85-8C3C-8423943B25C7}|Services\\Discount\\Discount.Grpc\\Discount.Grpc.csproj|solutionrelative:services\\discount\\discount.grpc\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{B47200B2-47A6-4F2B-9BAB-DE8AECADEB98}|docker-compose.dcproj|d:\\learning\\eshopmicroservices\\src\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B47200B2-47A6-4F2B-9BAB-DE8AECADEB98}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24A5A35A-4606-4CC2-BB5B-A9725BE50430}|Services\\Basket\\Basket.API\\Basket.API.csproj|d:\\learning\\eshopmicroservices\\src\\services\\basket\\basket.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{24A5A35A-4606-4CC2-BB5B-A9725BE50430}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24A5A35A-4606-4CC2-BB5B-A9725BE50430}|Services\\Basket\\Basket.API\\Basket.API.csproj|d:\\learning\\eshopmicroservices\\src\\services\\basket\\basket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24A5A35A-4606-4CC2-BB5B-A9725BE50430}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24A5A35A-4606-4CC2-BB5B-A9725BE50430}|Services\\Basket\\Basket.API\\Basket.API.csproj|d:\\learning\\eshopmicroservices\\src\\services\\basket\\basket.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{24A5A35A-4606-4CC2-BB5B-A9725BE50430}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24A5A35A-4606-4CC2-BB5B-A9725BE50430}|Services\\Basket\\Basket.API\\Basket.API.csproj|d:\\learning\\eshopmicroservices\\src\\services\\basket\\basket.api\\basket\\storebasket\\storebaskethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24A5A35A-4606-4CC2-BB5B-A9725BE50430}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\basket\\storebasket\\storebaskethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6A980775-BA65-4C85-8C3C-8423943B25C7}|Services\\Discount\\Discount.Grpc\\Discount.Grpc.csproj|d:\\learning\\eshopmicroservices\\src\\services\\discount\\discount.grpc\\services\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A980775-BA65-4C85-8C3C-8423943B25C7}|Services\\Discount\\Discount.Grpc\\Discount.Grpc.csproj|solutionrelative:services\\discount\\discount.grpc\\services\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A980775-BA65-4C85-8C3C-8423943B25C7}|Services\\Discount\\Discount.Grpc\\Discount.Grpc.csproj|d:\\learning\\eshopmicroservices\\src\\services\\discount\\discount.grpc\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6A980775-BA65-4C85-8C3C-8423943B25C7}|Services\\Discount\\Discount.Grpc\\Discount.Grpc.csproj|solutionrelative:services\\discount\\discount.grpc\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Learning\\EShopMicroservices\\src\\Services\\Discount\\Discount.Grpc\\Migrations\\20240602171523_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B47200B2-47A6-4F2B-9BAB-DE8AECADEB98}|docker-compose.dcproj|d:\\learning\\eshopmicroservices\\src\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{B47200B2-47A6-4F2B-9BAB-DE8AECADEB98}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B47200B2-47A6-4F2B-9BAB-DE8AECADEB98}|docker-compose.dcproj|d:\\learning\\eshopmicroservices\\src\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{B47200B2-47A6-4F2B-9BAB-DE8AECADEB98}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6A980775-BA65-4C85-8C3C-8423943B25C7}|Services\\Discount\\Discount.Grpc\\Discount.Grpc.csproj|d:\\learning\\eshopmicroservices\\src\\services\\discount\\discount.grpc\\protos\\discount.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -66,11 +82,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "DiscountService.cs",
               "DocumentMoniker": "D:\\Learning\\EShopMicroservices\\src\\Services\\Discount\\Discount.Grpc\\Services\\DiscountService.cs",
               "RelativeDocumentMoniker": "Services\\Discount\\Discount.Grpc\\Services\\DiscountService.cs",
@@ -79,6 +95,20 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-02T13:28:45.467Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "D:\\Learning\\EShopMicroservices\\src\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "docker-compose.override.yml",
+              "ToolTip": "D:\\Learning\\EShopMicroservices\\src\\docker-compose.override.yml",
+              "RelativeToolTip": "docker-compose.override.yml",
+              "ViewState": "AQIAACoAAAAAAAAAAADwv0EAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-06-02T17:00:11.728Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
@@ -100,7 +130,59 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Learning\\EShopMicroservices\\src\\Services\\Basket\\Basket.API\\Dockerfile",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Dockerfile",
+              "ToolTip": "D:\\Learning\\EShopMicroservices\\src\\Services\\Basket\\Basket.API\\Dockerfile",
+              "RelativeToolTip": "Services\\Basket\\Basket.API\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-02T18:01:12.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Learning\\EShopMicroservices\\src\\Services\\Basket\\Basket.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\appsettings.json",
+              "ToolTip": "D:\\Learning\\EShopMicroservices\\src\\Services\\Basket\\Basket.API\\appsettings.json",
+              "RelativeToolTip": "Services\\Basket\\Basket.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-02T17:50:33.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learning\\EShopMicroservices\\src\\Services\\Basket\\Basket.API\\Program.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Program.cs",
+              "ToolTip": "D:\\Learning\\EShopMicroservices\\src\\Services\\Basket\\Basket.API\\Program.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.API\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAC0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T17:48:46.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StoreBasketHandler.cs",
+              "DocumentMoniker": "D:\\Learning\\EShopMicroservices\\src\\Services\\Basket\\Basket.API\\Basket\\StoreBasket\\StoreBasketHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Basket\\StoreBasket\\StoreBasketHandler.cs",
+              "ToolTip": "D:\\Learning\\EShopMicroservices\\src\\Services\\Basket\\Basket.API\\Basket\\StoreBasket\\StoreBasketHandler.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.API\\Basket\\StoreBasket\\StoreBasketHandler.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA1wCQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T17:41:38.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "20240602171523_InitialCreate.cs",
               "DocumentMoniker": "D:\\Learning\\EShopMicroservices\\src\\Services\\Discount\\Discount.Grpc\\Migrations\\20240602171523_InitialCreate.cs",
               "RelativeDocumentMoniker": "Services\\Discount\\Discount.Grpc\\Migrations\\20240602171523_InitialCreate.cs",
@@ -113,20 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "docker-compose.override.yml",
-              "DocumentMoniker": "D:\\Learning\\EShopMicroservices\\src\\docker-compose.override.yml",
-              "RelativeDocumentMoniker": "docker-compose.override.yml",
-              "ToolTip": "D:\\Learning\\EShopMicroservices\\src\\docker-compose.override.yml",
-              "RelativeToolTip": "docker-compose.override.yml",
-              "ViewState": "AQIAADMAAAAAAAAAAADwv0kAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2024-06-02T17:00:11.728Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "docker-compose.yml",
               "DocumentMoniker": "D:\\Learning\\EShopMicroservices\\src\\docker-compose.yml",
               "RelativeDocumentMoniker": "docker-compose.yml",
@@ -139,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Dockerfile",
               "DocumentMoniker": "D:\\Learning\\EShopMicroservices\\src\\Services\\Discount\\Discount.Grpc\\Dockerfile",
               "RelativeDocumentMoniker": "Services\\Discount\\Discount.Grpc\\Dockerfile",
@@ -152,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Extensions.cs",
               "DocumentMoniker": "D:\\Learning\\EShopMicroservices\\src\\Services\\Discount\\Discount.Grpc\\Data\\Extensions.cs",
               "RelativeDocumentMoniker": "Services\\Discount\\Discount.Grpc\\Data\\Extensions.cs",
@@ -165,7 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "DiscountContext.cs",
               "DocumentMoniker": "D:\\Learning\\EShopMicroservices\\src\\Services\\Discount\\Discount.Grpc\\Data\\DiscountContext.cs",
               "RelativeDocumentMoniker": "Services\\Discount\\Discount.Grpc\\Data\\DiscountContext.cs",
@@ -178,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "20240602150938_InitialCreate.cs",
               "DocumentMoniker": "D:\\Learning\\EShopMicroservices\\src\\Services\\Discount\\Discount.Grpc\\Migrations\\20240602150938_InitialCreate.cs",
               "RelativeDocumentMoniker": "Services\\Discount\\Discount.Grpc\\Migrations\\20240602150938_InitialCreate.cs",
@@ -191,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "discount.proto",
               "DocumentMoniker": "D:\\Learning\\EShopMicroservices\\src\\Services\\Discount\\Discount.Grpc\\Protos\\discount.proto",
               "RelativeDocumentMoniker": "Services\\Discount\\Discount.Grpc\\Protos\\discount.proto",
@@ -204,7 +273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "Coupon.cs",
               "DocumentMoniker": "D:\\Learning\\EShopMicroservices\\src\\Services\\Discount\\Discount.Grpc\\Models\\Coupon.cs",
               "RelativeDocumentMoniker": "Services\\Discount\\Discount.Grpc\\Models\\Coupon.cs",
@@ -217,7 +286,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Learning\\EShopMicroservices\\src\\Services\\Discount\\Discount.Grpc\\Program.cs",
               "RelativeDocumentMoniker": "Services\\Discount\\Discount.Grpc\\Program.cs",
@@ -230,7 +299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\Learning\\EShopMicroservices\\src\\Services\\Discount\\Discount.Grpc\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Services\\Discount\\Discount.Grpc\\Properties\\launchSettings.json",
@@ -243,7 +312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Learning\\EShopMicroservices\\src\\Services\\Discount\\Discount.Grpc\\appsettings.json",
               "RelativeDocumentMoniker": "Services\\Discount\\Discount.Grpc\\appsettings.json",
@@ -256,7 +325,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "DiscountGrpc.cs",
               "DocumentMoniker": "D:\\Learning\\EShopMicroservices\\src\\Services\\Discount\\Discount.Grpc\\obj\\Debug\\net8.0\\Protos\\DiscountGrpc.cs",
               "RelativeDocumentMoniker": "Services\\Discount\\Discount.Grpc\\obj\\Debug\\net8.0\\Protos\\DiscountGrpc.cs",

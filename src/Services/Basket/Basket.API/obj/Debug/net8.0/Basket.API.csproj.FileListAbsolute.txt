@@ -180,3 +180,10 @@ D:\Learning\EShopMicroservices\src\Services\Basket\Basket.API\bin\Debug\net8.0\H
 D:\Learning\EShopMicroservices\src\Services\Basket\Basket.API\bin\Debug\net8.0\HealthChecks.Redis.dll
 D:\Learning\EShopMicroservices\src\Services\Basket\Basket.API\bin\Debug\net8.0\HealthChecks.UI.Client.dll
 D:\Learning\EShopMicroservices\src\Services\Basket\Basket.API\bin\Debug\net8.0\HealthChecks.UI.Core.dll
+D:\Learning\EShopMicroservices\src\Services\Basket\Basket.API\bin\Debug\net8.0\Google.Protobuf.dll
+D:\Learning\EShopMicroservices\src\Services\Basket\Basket.API\bin\Debug\net8.0\Grpc.AspNetCore.Server.dll
+D:\Learning\EShopMicroservices\src\Services\Basket\Basket.API\bin\Debug\net8.0\Grpc.AspNetCore.Server.ClientFactory.dll
+D:\Learning\EShopMicroservices\src\Services\Basket\Basket.API\bin\Debug\net8.0\Grpc.Core.Api.dll
+D:\Learning\EShopMicroservices\src\Services\Basket\Basket.API\bin\Debug\net8.0\Grpc.Net.Client.dll
+D:\Learning\EShopMicroservices\src\Services\Basket\Basket.API\bin\Debug\net8.0\Grpc.Net.ClientFactory.dll
+D:\Learning\EShopMicroservices\src\Services\Basket\Basket.API\bin\Debug\net8.0\Grpc.Net.Common.dll

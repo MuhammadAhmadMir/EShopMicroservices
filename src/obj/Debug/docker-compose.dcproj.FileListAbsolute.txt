@@ -88,3 +88,5 @@ D:\Learning\EShopMicroservices\src\bin\Debug\Grpc.Net.Common.dll
 D:\Learning\EShopMicroservices\src\bin\Debug\Microsoft.Data.Sqlite.dll
 D:\Learning\EShopMicroservices\src\bin\Debug\SQLitePCLRaw.core.dll
 D:\Learning\EShopMicroservices\src\bin\Debug\Discount.Grpc.pdb
+D:\Learning\EShopMicroservices\src\bin\Debug\Grpc.Net.ClientFactory.dll
+D:\Learning\EShopMicroservices\src\bin\Debug\Grpc.Net.Client.dll
